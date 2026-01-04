@@ -2,9 +2,7 @@ backend:
   name: github
   repo: fullcolour/hugoo
   branch: main
-  base_url: https://xojoj.com
-  auth_type: oauth
-  app_id: Ov23liSCQX5CADQrQTpA
+  auth_endpoint: https://api.netlify.com/auth
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
@@ -14,10 +12,9 @@ collections:
     label: "文章"
     folder: "content/posts"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { label: "标题", name: "title", widget: "string" }
-      - { label: "发布日期", name: "date", widget: "datetime" }
-      - { label: "草稿", name: "draft", widget: "boolean", default: false }
+      - { label: "日期", name: "date", widget: "datetime" }
       - { label: "正文", name: "body", widget: "markdown" }
 
