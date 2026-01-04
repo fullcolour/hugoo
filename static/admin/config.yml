@@ -2,7 +2,8 @@ backend:
   name: github
   repo: fullcolour/hugoo
   branch: main
-  auth_type: implicit
+  base_url: https://xojoj.com
+  auth_type: oauth
   app_id: Ov23liSCQX5CADQrQTpA
 
 media_folder: "static/uploads"
