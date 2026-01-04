@@ -1,3 +1,5 @@
+disableAliases = true
+staticDir = ["static"]
 baseURL = "/"
 title = "Wang 的博客"
 languageCode = "zh-cn"
