@@ -1,0 +1,44 @@
+baseURL = "/"
+title = "Wang 的博客"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+[permalinks]
+  posts = "/posts/:slug/"
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    style = "dracula"
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+  env = "production"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = true
+
+  [params.homeInfoParams]
+    Title = "你好，我是 Wang"
+    Content = "欢迎来到我的技术与生活博客。"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 1
+
