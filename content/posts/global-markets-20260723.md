@@ -1,0 +1,36 @@
++++
+date = '2026-07-23T06:00:00+09:00'
+title = 'Global Markets — July 23, 2026'
+draft = false
++++
+
+1. **S&P 500 edges up 0.3% as tech earnings optimism offsets growth concerns** — The broad index closed near session highs, with investors rotating into mega-cap tech ahead of next week's big earnings reports from Microsoft, Meta, and Amazon.
+2. **Dow Jones gains 120 points as Caterpillar, Boeing lead industrials higher** — Industrial stocks rallied on stronger-than-expected durable goods data, with Caterpillar adding 1.5% and Boeing up 2.1% after a new aircraft delivery milestone.
+3. **Nasdaq Composite rises 0.6% as Nvidia rebounds 2.5% ahead of AI conference** — The tech-heavy index outperformed, driven by a rebound in semiconductor stocks, led by Nvidia and AMD, ahead of the annual CVPR AI conference next week.
+4. **Treasury yields move sideways — 10-year holds at 4.32% as market awaits PCE data** — Bond yields remained range-bound as traders held off making big bets ahead of Friday's core PCE inflation print, the Fed's preferred inflation gauge.
+5. **Dollar Index steadies near 105.20 as rate differentials favor the greenback** — The dollar held firm against major peers as US-German yield spreads widened, with EUR/USD slipping to 1.0820 and GBP/USD easing to 1.2890.
+6. **Oil prices rise 1.2% — WTI crude back above $81 on falling US inventories** — West Texas Intermediate climbed to $81.35 a barrel after the API reported a larger-than-expected drawdown in US crude stocks, signaling tightening supply.
+7. **Gold edges higher to $2,380 as real yields dip ahead of PCE data** — Spot gold rose modestly as real interest rates softened, with traders positioning for a potential downside surprise in Friday's inflation data.
+8. **Bitcoin holds $64,000 as ETF inflows resume after three-day lull** — BTC traded near $64,200 after spot Bitcoin ETFs recorded net inflows of $185 million, ending a three-day streak of outflows; Ethereum gained 1.8% to $3,420.
+9. **European stocks close flat as ECB's Lagarde reiterates data-dependent stance** — The Stoxx 600 ended little changed after ECB President Lagarde said the bank needs more evidence that inflation is sustainably heading to target before cutting rates.
+10. **FTSE 100 slips 0.2% as UK retail sales miss expectations** — UK retail sales fell 0.4% month-on-month in June, worse than the -0.1% consensus, weighing on consumer discretionary stocks; the pound dipped 0.1% against the dollar.
+11. **Nikkei 225 rises 0.8% as yen weakens past 160 against the dollar** — Japan's benchmark index gained as a weaker yen boosted export-oriented auto and electronics stocks, with Toyota adding 1.2% and Sony up 0.9%.
+12. **Shanghai Composite little changed as China holds LPR steady** — China kept its one-year and five-year loan prime rates unchanged, in line with expectations, as the PBoC continues to prioritize financial stability over stimulus.
+13. **Hong Kong Hang Seng rises 0.5% on tech stock bounce** — The Hang Seng edged higher as Alibaba and Tencent gained modestly, recovering from recent losses driven by regulatory concerns in the Chinese tech sector.
+14. **US durable goods orders rise 0.8% in June, beating expectations** — New orders for manufactured goods exceeded the 0.4% consensus estimate, driven by commercial aircraft and defense spending, suggesting business investment remains resilient.
+15. **Weekly jobless claims fall to 215,000, below consensus estimate** — Initial unemployment claims came in lower than the 225,000 expected, pointing to continued tightness in the labor market ahead of next week's Fed meeting.
+16. **Fed's Waller signals patience on rate cuts, wants several months of good data** — Governor Christopher Waller said he needs to see sustained improvement in inflation data before supporting rate cuts, pushing back against market pricing for a September reduction.
+17. **Existing home sales fall 1.3% in June as high mortgage rates continue to bite** — Sales of previously owned homes dropped to a seasonally adjusted annual rate of 4.16 million, below the 4.22 million consensus, as the average 30-year mortgage rate remained above 7%.
+18. **New home sales data due Thursday expected to show modest improvement** — Economists project new home sales rose 1.5% in June, reflecting increased builder incentives and a slight uptick in new construction activity.
+19. **Goldman Sachs raises Q3 GDP tracking estimate to 2.9% on strong consumption** — Goldman Sachs revised its GDPNow tracker higher following better-than-expected retail sales and personal spending data, citing a still-resilient US consumer.
+20. **German IFO business climate index falls to 87.5, missing expectations** — Germany's IFO business confidence index fell more than expected, marking a third consecutive monthly decline, as the manufacturing recession deepened and political uncertainty weighed.
+21. **Bank of Japan minutes show board divided on timing of next rate hike** — Minutes from the BOJ's June meeting revealed a split among board members, with some advocating for a July move while others warned against disrupting fragile economic recovery.
+22. **Japan's industrial production rises 2.1% month-on-month, beating forecasts** — Japan's industrial output rebounded in May, driven by auto production and semiconductor equipment, offering a positive signal for Q2 GDP.
+23. **Apple announces new AI features in iOS developer beta, shares rise 1.3%** — Apple released the third developer beta of iOS 19 with expanded on-device AI capabilities, including enhanced Siri and photo editing tools, sending the stock higher.
+24. **Tesla gains 3.2% on report of FSD approval progress in China** — Tesla shares jumped after reports that the company is close to receiving regulatory approval for its Full Self-Driving system in China, opening a potential new revenue stream.
+25. **Bitcoin miner stocks rally as network hash rate reaches new all-time high** — Marathon Digital and Riot Platforms each rose over 4% as Bitcoin's network hash rate hit a record high, signaling miner confidence despite the recent price pullback.
+26. **Copper prices stabilize above $4.80 per pound after recent selloff** — Copper futures steadied after a 6% decline over the past week, as investors reassessed Chinese demand prospects and global supply dynamics.
+27. **Coffee futures jump 5% on drought concerns in Brazil** — Arabica coffee prices surged to $2.55 per pound after forecasters warned of prolonged dry conditions in Brazil's key coffee-growing regions, threatening next year's harvest.
+28. **Philippine peso weakens 0.8% against dollar after central bank holds rates** — The Philippine peso fell after Bangko Sentral ng Pilipinas kept its policy rate unchanged, disappointing some traders who had expected a hawkish surprise.
+29. **MSCI Emerging Markets Index rises 0.6% as China stimulus hopes return** — Emerging market stocks gained amid renewed speculation that Chinese authorities will announce additional fiscal measures to support the slowing economy.
+30. **S&P 500 VIX falls below 15 as market complacency builds ahead of earnings** — The CBOE Volatility Index dropped to 14.6, its lowest in three weeks, as options markets price in a calm earnings season despite elevated geopolitical risks.
