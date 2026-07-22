@@ -1,7 +1,7 @@
 disableAliases = true
 staticDir = ["static"]
 baseURL = "/"
-title = "Wang 的博客"
+title = "SUN"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh"
 theme = "PaperMod"
@@ -33,14 +33,98 @@ enableRobotsTXT = true
   TocOpen = true
 
   [params.homeInfoParams]
-    Title = "你好，我是 Wang"
     Content = "欢迎来到我的技术与生活博客。"
+ 
+[params.footer]
+  text = "Powered by SUN"
 
 [menu]
-
   [[menu.main]]
     identifier = "posts"
-    name = "文章"
+    name = "博客"
     url = "/posts/"
     weight = 1
-
+  [[menu.main]]
+    name = "AI導航"
+    url = "https://ai.wangtaiyang.com/"
+    weight = 2
+  [[menu.main]]
+    name = "草图"
+    url = "https://draw.wangtaiyang.com/"
+    weight = 3
+  [[menu.main]]
+    name = "电影"
+    url = "https://kvideo.83841117.xyz/"
+    weight = 4
+  [[menu.main]]
+    name = "設計工具"
+    url = "https://tools.wangtaiyang.com/"
+    weight = 5
+  [[menu.main]]
+    name = "健身"
+    url = "https://sports.wangtaiyang.com/"
+    weight = 6
+  [[menu.main]]
+    name = "思維導圖"
+    url = "https://mind.wangtaiyang.com/"
+    weight = 7
+  [[menu.main]]
+    name = "汇率换算"
+    url = "https://hl.wangtaiyang.com/"
+    weight = 8
+  [[menu.main]]
+    name = "IT工具"
+    url = "https://ittools.wangtaiyang.com/"
+    weight = 9
+  [[menu.main]]
+    name = "論壇"
+    url = "https://discuss.wangtaiyang.com/"
+    weight = 10
+  [[menu.main]]
+    name = "計算器"
+    url = "https://calculation.wangtaiyang.com/"
+    weight = 11
+  [[menu.main]]
+    name = "IP"
+    url = "https://ip.wangtaiyang.com/"
+    weight = 12
+  [[menu.main]]
+    name = "數字命理學"
+    url = "https://lifecode.wangtaiyang.com/"
+    weight = 13
+  [[menu.main]]
+    name = "周易"
+    url = "https://zhouyi.wangtaiyang.com/"
+    weight = 14
+  [[menu.main]]
+    name = "MBTI"
+    url = "https://mbti.wangtaiyang.com/"
+    weight = 15
+  [[menu.main]]
+    name = "扫雷"
+    url = "https://saolei.wangtaiyang.com/"
+    weight = 16
+  [[menu.main]]
+    name = "订阅"
+    url = "https://sub.wangtaiyang.com/"
+    weight = 17
+  [[menu.main]]
+    name = "简历"
+    url = "https://r.wangtaiyang.com/"
+    weight = 18
+  [[menu.main]]
+    name = "密码"
+    url = "https://password.wangtaiyang.com/"
+    weight = 19
+  [[menu.main]]
+    name = "邮箱"
+    url = "https://mail.wangtaiyang.com/"
+    weight = 20
+  [[menu.main]]
+    name = "短链"
+    url = "https://link.wangtaiyang.com/"
+    weight = 21
+  [[menu.main]]
+    name = "内部导航"
+    url = "https://n.wangtaiyang.com/"
+    weight = 22
