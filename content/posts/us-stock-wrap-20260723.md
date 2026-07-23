@@ -4,7 +4,7 @@ title = 'US Stock Market Wrap — July 23, 2026'
 draft = false
 +++
 
-1. **S&P 500 rises 0.6% to 7,492 as tech rebound fuels broad market rally** — The S&P 500 snapped a two-day losing streak, closing at 7,492.03 with all 11 sectors in the green, led by technology and consumer discretionary.
+1. **S&P 500 rises 0.6% to 7,492 as tech rebound fuels broad market rally** — The S&P 500 snapped a two-day losing streak, closing at  7,492.03 with all 11 sectors in the green, led by technology and consumer discretionary.
 2. **Dow Jones Industrial Average gains 145 points to 52,184** — The Dow rose 0.3% as Boeing and Caterpillar led gains on upbeat industrial earnings and positive economic data.
 3. **Nasdaq Composite surges 1.1% to 25,790** — The tech-heavy index outperformed as semiconductor stocks staged a strong comeback, with the Philadelphia Semiconductor Index jumping 2.4%.
 4. **Nvidia climbs 3.8% ahead of CVPR keynote** — Nvidia rose to $128.40 ahead of CEO Jensen Huang's keynote at the Computer Vision and Pattern Recognition conference, with analysts expecting new AI chip announcements.
